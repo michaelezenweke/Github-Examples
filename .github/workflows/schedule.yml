@@ -8,5 +8,3 @@ jobs:
     steps:
       - name: Echo current time
         run: echo "The current server time is $(date)"
-
-        # This is the schedule job
